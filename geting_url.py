@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 
 # specify the url that you want to extract from it
-url = "https://en.wikipedia.org/wiki/Blog"
+url = "example.com"
 # make a get request 
 reqs = requests.get(url)
 
